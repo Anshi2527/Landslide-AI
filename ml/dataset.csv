@@ -1,0 +1,11 @@
+rainfall,soil_moisture,slope,temperature,elevation,humidity,risk
+20,30,10,30,200,40,Low
+35,40,15,28,300,45,Low
+50,50,20,27,400,55,Low
+65,60,25,26,500,60,Medium
+80,65,30,25,600,70,Medium
+95,70,35,25,650,75,Medium
+110,80,40,24,750,82,High
+120,85,42,24,850,88,High
+140,90,45,23,900,90,High
+160,92,50,22,1000,93,High
